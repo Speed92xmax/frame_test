@@ -187,7 +187,7 @@ import { FormsModule } from '@angular/forms';
             max="4000"
             step="1"
           />
-          px
+          mm
         </label>
         <label class="flex gap-4 items-center">
           grosor Marco:
@@ -206,7 +206,7 @@ import { FormsModule } from '@angular/forms';
             [max]="500"
             step="1"
           />
-          px
+          mm
         </label>
       </div>
       <div class="flex flex-col gap-3 flex-wrap">
