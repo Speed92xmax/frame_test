@@ -20,7 +20,7 @@ import { PluralPieceComponent } from './components/plural-piece/plural-piece.com
     PluralPieceComponent,
   ],
   template: `
-    <section class="flex flex-col gap-1 justify-center items-center w-full">
+    <section class="h-screen w-full">
       <!--       <home-frame-top /> -->
       <!-- <corner-left /> -->
       <plural-piece />
